@@ -15,7 +15,7 @@ Este proyecto tiene como objetivo construir un modelo de machine learning capaz 
 
 1. Clona este repositorio:
     ```sh
-    git clone https://github.com/tu_usuario/Clasifacion-Spam.git
+    git clone https://github.com/tristandelrosal/Clasifacion-Spam.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
